@@ -50,7 +50,7 @@ function App() {
                   </div>
 
                   <div className="tp-caption slider-caption" data-x="center" data-y="center" data-voffset="40" data-speed="500" data-start="1800" data-easing="Power4.easeInOut" data-captionhidden="on">
-                    An internationally recognized, independent business management firm
+                  Protect and grow Wealth for clients by delivering outstanding investment results.
                   </div> 
 
                   
@@ -65,12 +65,12 @@ function App() {
 
                   
                   <div className="tp-caption slider-title" data-x="center" data-y="center"  data-voffset="-30" data-speed="500" data-start="1200" data-easing="Power4.easeInOut">
-                      mfs <span>Agency</span>
+                      MFS <span>Bazaar</span>
                   </div> 
 
             
                   <div className="tp-caption slider-caption" data-x="center" data-y="center" data-voffset="40" data-speed="500" data-start="1800" data-easing="Power4.easeInOut" data-captionhidden="on">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit aute irure
+                    Feel safe your future is in good hands
                   </div> 
 
                  
@@ -90,7 +90,7 @@ function App() {
                       <h1>MFS <span className="alo">Bazaar</span></h1> 
                       <span className="border-line"></span>
                       <p className="lead subtitle-caption">
-                          we are a creative agency located in <span className="colored-text">sydney, australia.</span> It is a long established fact that a reader will be distracted by the readable content.
+                          Welcome to MFS Bazaar located in <span className="colored-text">Barasat, WestBengal.</span> It led by some of the most experienced people in the Indian Wealth Management Sector.
                       </p>
                   </div>
               </div>
@@ -200,16 +200,16 @@ function App() {
           <div className="row">
               <div className="col-sm-8 col-sm-offset-2">
                   <div className="section-title text-center">
-                      <h1> <span className="alo">Bonativo</span> team</h1> 
+                      <h1> <span className="alo">MFS BAZAAR</span> team</h1> 
                       <span className="border-line"></span>
                       <p className="lead subtitle-caption">
-                          Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                      The Cradled establishment of Mr. Soumyajit Roy, Founder and CERTIFIED FINANCIAL PLANNER (CFPCM), is one of the leading financial planner and experienced Wealth Manager in India.
                       </p>
                   </div>
               </div>
           </div>
           <div className="row">
-
+             {/*
               <div className="col-sm-4 margin-bottom30">
                   <div className="team-box">
                       <img src="images/team-1.jpg" className="img-responsive" alt=""/>
@@ -224,10 +224,10 @@ function App() {
                       <h4>Daniel Smith</h4>
                       <em>Manager</em>
                   </div>
-              </div>
+              </div>*/}
               <div className="col-sm-4 margin-bottom30">
                   <div className="team-box">
-                      <img src="images/team-2.jpg" className="img-responsive" alt=""/>                       
+                      <img src="images/team-2.png" className="img-responsive" alt=""/>                       
                       <ul className="social list-inline">
                           <li><a href="#"><i className="icon icon-social-twitter"></i></a></li>
                           <li><a href="#"><i className="icon icon-social-facebook"></i></a></li>
@@ -235,11 +235,11 @@ function App() {
                       </ul>
                   </div>
                   <div className="team-desc">
-                      <h4>Daniel Smith</h4>
-                      <em>Manager</em>
+                      <h4>Mr. Soumyajit Roy</h4>
+                      <em>Founder and CERTIFIED FINANCIAL PLANNER (CFPCM)</em>
                   </div>
               </div>
-              <div className="col-sm-4 margin-bottom30">
+              {/*<div className="col-sm-4 margin-bottom30">
                   <div className="team-box">
                       <img src="images/team-3.jpg" className="img-responsive" alt=""/>                     
                       <ul className="social list-inline">
@@ -252,7 +252,7 @@ function App() {
                       <h4>Daniel Smith</h4>
                       <em>Manager</em>
                   </div>
-              </div>
+              </div>*/}
           </div>
       </div>
   </div>
@@ -263,10 +263,10 @@ function App() {
           <div className="row">
               <div className="col-sm-8 col-sm-offset-2 text-center">
                   <div className="section-title">
-                      <h1>Our <span className="colored-text">Services</span></h1> 
+                      <h1>Our Mission and<span className="colored-text"> Vision</span></h1> 
                       <span className="border-line"></span>
                       <p className="lead subtitle-caption">
-                          Why you choose <span className="colored-text">Bonativo</span>
+                          Why you choose <span className="colored-text">MFS BAZAAR</span>
                       </p>
                   </div>
               </div>
@@ -278,9 +278,11 @@ function App() {
                           <i className="ion-ios-paperplane-outline front-icon"></i>
                       </div>
                       <div className="features-text-right">
-                          <h3>Marketing</h3>                         
+                          {/*<h3>Marketing</h3>*/}                        
                           <p>
-                              Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                          Excellence in service and client engagement.
+                          Efficiency in operations and compliance.
+                          Respect, Autonomy, Recognition, and Reward for team members.
                           </p>
                       </div>
                   </div>
@@ -291,9 +293,9 @@ function App() {
                           <i className="ion-ios-browsers-outline front-icon"></i>
                       </div>
                       <div className="features-text-right">
-                          <h3>Web & Graphics design</h3>                         
+                          {/* <h3>Web & Graphics design</h3>                          */}
                           <p>
-                              Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                          We assist the ambitious “FEW” to make the tangible progress in their wealth with an enterprising mix of long term, conservative and responsible non speculative investments to give nancial security and peace of mind.
                           </p>
                       </div>
                   </div>
@@ -306,9 +308,10 @@ function App() {
                           <i className="ion-ios-world-outline front-icon"></i>
                       </div>
                       <div className="features-text-right">
-                          <h3>Social Media</h3>                         
+                          {/* <h3>Social Media</h3> */}
                           <p>
-                              Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                          We are a competent team founded on fairness, dignity and respect for everyone. We enjoy the pursuit of high quality, error free work.
+We actively partner with ethical associates having common objectives and values.
                           </p>
                       </div>
                   </div>
@@ -319,10 +322,11 @@ function App() {
                           <i className="ion-ios-color-wand-outline front-icon"></i>
                       </div>
                       <div className="features-text-right">
-                          <h3>Creative ideas</h3>                         
+                          {/* <h3>Creative ideas</h3>                          */}
                           <p>
-                              Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
-                          </p>
+                          To generate returns in a manner this would address short term and long terms objectives of clients.
+                          To manage our clients’ wealth by striking a balance between growth and safety of the investments.
+                           </p>
                       </div>
                   </div>
               </div>
@@ -334,9 +338,10 @@ function App() {
                           <i className="ion-ios-crop front-icon"></i>
                       </div>
                       <div className="features-text-right">
-                          <h3>Responsive Design</h3>                         
+                          {/* <h3>Responsive Design</h3>                          */}
                           <p>
-                              Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                          Strong belief in achieving excellence not only in our processes but also our knowledge based and skills.
+                          Total commitment to rational approach to investing with strong emphasis on values and ethics.
                           </p>
                       </div>
                   </div>
@@ -347,9 +352,11 @@ function App() {
                           <i className="ion-ios-people-outline front-icon"></i>
                       </div>
                       <div className="features-text-right">
-                          <h3>Customer Support</h3>                         
+                          {/* <h3>Customer Support</h3>                          */}
                           <p>
-                              Vivamus congue diam vitae tortor imperdiet congue. Nullam sagittis, tristique diam, ut ullamcorper tellus. Cras porttitor massa.
+                          Adherence to long term conservative approach by scrupulously avoiding speculation.
+                          Shared values of our team are fairness, dignity and respect for everyone.
+                          We strive to be one of the best in the domain of investment.  
                           </p>
                       </div>
                   </div>
@@ -357,8 +364,9 @@ function App() {
           </div>
       </div>
   </section>
-     
-     <div className="testimonials parallax-2">
+
+    {/* 
+    <div className="testimonials parallax-2">
       <div className="container">
           <div className="row">
               <div className="col-sm-8 col-sm-offset-2 text-center">
@@ -397,7 +405,7 @@ function App() {
           </div>
       </div>
     </div>
-
+  */}
 
     <div className="price-tables section-padding">
       <div className="container">
@@ -682,15 +690,15 @@ function App() {
                   <div className="row contact-details">
                       <div className="col-sm-4 margin-bottom30 text-center">
                           <i className="ion-ios-location-outline"></i>
-                          <h4>California, Usa</h4>
+                          <h4>Barasat, Kolkata-700126</h4>
                       </div>
                       <div className="col-sm-4 margin-bottom30 text-center">
                           <i className="ion-ios-email-outline"></i>
-                          <h4>support@Bonativo.com</h4>
+                          <h4>info@mfsbazaar.com</h4>
                       </div>
                       <div className="col-sm-4 margin-bottom30 text-center">
                           <i className="ion-ios-telephone-outline"></i>
-                          <h4>+01 - 4567 - 65678</h4>
+                          <h4>+91 - 8910604323</h4>
                       </div>
                   </div>
               </div>
@@ -708,7 +716,6 @@ function App() {
                                       <p className="help-block"></p>
                                   </div>
                               </div>
-
                           </div>
 
                           <div className="col-md-12">
