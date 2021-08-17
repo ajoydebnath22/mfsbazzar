@@ -247,7 +247,7 @@ function App() {
                   </div>
                   <div className="team-desc">
                       <h4 style={style.fontSize18}>Mr. Soumyajit Roy</h4>
-                      <em>FOUNDER and CERTIFIED FINANCIAL PLANNER (CFPCM)</em>
+                      <em>FOUNDER and CERTIFIED FINANCIAL PLANNER (CFP <sup>CM</sup>)</em>
                   </div>
               </div>
               {/*<div className="col-sm-4 margin-bottom30">
