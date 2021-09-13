@@ -14,7 +14,7 @@ function App() {
                   <span className="icon-bar"></span>
               </button>
               <a className="navbar-brand alo" href="index.html">
-                  <img src="images/logo_hader.jpeg"  data-bgrepeat="no-repeat"/>
+                  <img src="images/logo_header.jpeg"  data-bgrepeat="no-repeat"/>
               </a>
           </div>
           <div id="navbar" className="navbar-collapse collapse">
@@ -98,7 +98,7 @@ function App() {
                       <h1>MFS <span className="alo">Bazaar</span></h1> 
                       <span className="border-line"></span>
                       <p className="lead subtitle-caption" style={style.fontSize18}>
-                          Welcome to MFS Bazaar located in <span className="colored-text">Barasat, WestBengal.</span> It led by some of the most experienced people in the Indian Wealth Management Sector.
+                          Welcome to MFS Bazaar located in <span className="colored-text">Kolkata, WestBengal.</span> It led by some of the most experienced people in the Indian Wealth Management Sector.
                       </p>
                   </div>
               </div>
@@ -682,7 +682,7 @@ function App() {
                   <div className="row contact-details">
                       <div className="col-sm-4 margin-bottom30 text-center">
                           <i className="ion-ios-location-outline"></i>
-                          <h4>Barasat, Kolkata-700126</h4>
+                          <h4>Kolkata, West Bengal-700126</h4>
                       </div>
                       <div className="col-sm-4 margin-bottom30 text-center">
                           <i className="ion-ios-email-outline"></i>
