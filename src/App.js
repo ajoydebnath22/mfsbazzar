@@ -214,7 +214,7 @@ function App() {
                       <h1> <span className="alo">MFS BAZAAR</span> team</h1> 
                       <span className="border-line"></span>
                       <p className="lead subtitle-caption" style={style.fontSize18}>
-                      The Cradled establishment of Mr. Soumyajit Roy, Founder and CERTIFIED FINANCIAL PLANNER (CFPCM), is one of the leading financial planner and experienced Wealth Manager in India.
+                      The Cradled establishment of Mr. Soumyajit Roy, Founder and CERTIFIED FINANCIAL PLANNER (CFP<sup>CM</sup>), is one of the leading financial planner and experienced Wealth Manager in India.
                       </p>
                   </div>
               </div>
